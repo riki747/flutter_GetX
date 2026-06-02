@@ -1,0 +1,4 @@
+0 Background Noise
+1 Ketukan
+2 Siul
+3 Tepuk
